@@ -1,0 +1,63 @@
+i1  a* 7
+fact  7
+i2  a* 42
+fact  21
+i3  a* 105
+fact  35
+i4  a* 140
+fact  35
+i5  a* 105
+fact  21
+i1  a* 7
+fact  7
+i2  a* 42
+fact  21
+i3  a* 105
+fact  35
+i4  a* 140
+fact  35
+i5  a* 105
+fact  21
+21
+i1  a* 6
+fact  6
+i2  a* 30
+fact  15
+i3  a* 60
+fact  20
+i4  a* 60
+fact  15
+i5  a* 30
+fact  6
+i1  a* 6
+fact  6
+i2  a* 30
+fact  15
+i3  a* 60
+fact  20
+i4  a* 60
+fact  15
+i5  a* 30
+fact  6
+6
+i1  a* 5
+fact  5
+i2  a* 20
+fact  10
+i3  a* 30
+fact  10
+i4  a* 20
+fact  5
+i5  a* 5
+fact  1
+i1  a* 5
+fact  5
+i2  a* 20
+fact  10
+i3  a* 30
+fact  10
+i4  a* 20
+fact  5
+i5  a* 5
+fact  1
+1

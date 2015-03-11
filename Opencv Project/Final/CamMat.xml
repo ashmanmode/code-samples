@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<CamMat type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>f</dt>
+  <data>
+    2.6092669784990030e+003 0. 1.2795000000000000e+003 0.
+    2.6092669784990030e+003 7.6750000000000000e+002 0. 0. 1.</data></CamMat>
+</opencv_storage>

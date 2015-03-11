@@ -1,0 +1,19 @@
+[main] a 1000 (0) exception: trapped!
+[main] a 1000 (0) exception: code 0xC00000FD at 0x40D823
+[main] a 1000 (0) exception: ax 0x71C3C90 bx 0x246FF1F cx 0x472EB0 dx 0x91BFC90
+[main] a 1000 (0) exception: si 0x48DFE400 di 0x91BFC80 bp 0x246FF0C sp 0x246FEA8
+[main] a 1000 (0) exception: exception is: STATUS_STACK_OVERFLOW
+[main] a 1000 (0) stack: Stack trace:
+[main] a 1000 (0) stack: frame 0: sp = 0x246F8B4, pc = 0x6100A2C3
+[main] a 1000 (0) stack: frame 1: sp = 0x246F8F0, pc = 0x77522DF1
+[main] a 1000 (0) stack: frame 2: sp = 0x246F914, pc = 0x77522DC3
+[main] a 1000 (0) stack: frame 3: sp = 0x246F9DC, pc = 0x77522C4B
+[main] a 1000 (0) stack: frame 4: sp = 0x246FF0C, pc = 0x61004402
+[main] a 1000 (0) stack: frame 5: sp = 0x246FF4C, pc = 0x61004420
+[main] a 1000 (0) stack: frame 6: sp = 0x246FF58, pc = 0x41362E
+[main] a 1000 (0) stack: frame 7: sp = 0x246FF68, pc = 0x40103A
+[main] a 1000 (0) stack: frame 8: sp = 0x246FF84, pc = 0x761086E3
+[main] a 1000 (0) stack: frame 9: sp = 0x246FF90, pc = 0x7753BE99
+[main] a 1000 (0) stack: frame 10: sp = 0x246FFD4, pc = 0x7753BE6C
+[main] a 1000 (0) stack: frame 11: sp = 0x246FFEC, pc = 0x0
+[main] a 1000 (0) stack: End of stack trace

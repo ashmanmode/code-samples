@@ -1,0 +1,14 @@
+Rotation Mat  
+[1, 0, 0;
+  0, 1, 0;
+  0, 0, 1]
+
+ Lines and Rects Successfully Recorded 
+Rotation Mat  
+[1.5583265, -0.01015801, -0.91331267;
+  0.0143435, 1.837203, -0.088564813;
+  1.1951275, -0.21888214, 1.5216689]
+
+ Lines and Rects Successfully Recorded 
+ Plane Normals 
+3.05528e-0073.6565e-007-1.93741e-0071.2002e-007-1.3816e-0087.02353e-008

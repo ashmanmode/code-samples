@@ -1,0 +1,2 @@
+inp_images\\20140610_181441.jpg
+inp_images\\20140610_181450.jpg
